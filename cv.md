@@ -29,4 +29,4 @@ _I graduated from university with a degree in manager, but now I'm studying Fron
 I took **"Code Basic"** courses (HTML,CSS, JavaScript)_
 ### English language level:
 **Pre-intermediate** _It's good that there is a translator, but I'd rather learn English!_
-[Here I tested my knowledge:](https://angloved.ru/test/opredelit-uroven-anglijskogo/)
+[Here I tested my knowledge](https://angloved.ru/test/opredelit-uroven-anglijskogo/)
