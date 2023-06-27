@@ -1,1 +1,2 @@
-#Nikita Nevrov
+# Nikita Nevrov
+## Junior Frontend Developer
